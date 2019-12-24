@@ -1,4 +1,6 @@
 # pico-8-platformer
 little platformer made with PICO-8
 
-![lemonimage](https://i.imgur.com/m4vmZc3.png)
+almost all of the sprites by stepepson
+
+![lemon](https://i.imgur.com/6edR8mQ.png "funny lemon game")
